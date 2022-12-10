@@ -23,7 +23,3 @@ npm run build:analyze
 
 - Click on Parsed Size
 - Select pages/index chunk
-- search for `thirdweb`
-- view the output
-
-<img src='./step1.png'>
